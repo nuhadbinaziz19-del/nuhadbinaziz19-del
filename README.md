@@ -32,13 +32,3 @@ Exploring modern technologies
 Learning industry-standard development workflows
 ⚡ Fun Fact
 I enjoy solving challenging algorithmic problems and exploring new technologies to continuously improve my programming skills 🚀
-
-
-
-
-
-
-🚀 Quote
-
-“Code. Learn. Build. Repeat.”
-
