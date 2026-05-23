@@ -1,44 +1,72 @@
 <h1 align="left">Assalamualaikum Warahmatullah, I'm Nuhad Bin Aziz</h1>
 
-###
+## 💻 Java Developer | Student | Future Software Engineer
 
-<p align="left">A passionate learner and aspiring programmer from Rangpur, Bangladesh</p><div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmY1cmxiemRpdjNoeDdmZXpnMGI0MDg1MnRyN3JkOXRibmw0aHN0aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f3KwliaH4MLtli8z7D/giphy.gif"  />
-</div>
+I am passionate about building clean and user-friendly desktop applications using Java and JavaFX.  
+Currently focused on improving my skills in software development, UI design, database management, and problem solving.
 
-###
+---
 
+## 🚀 About Me
 
+- 🎓 Student & Self-Learner
+- 💻 Working with Java & JavaFX
+- 🗄️ Learning Database Integration
+- 🔥 Interested in Software Development
+- 📚 Always learning new technologies
 
-<p align="left">🌱 I’m currently learning<br>Competitive Programming, Data Structures & Algorithms, advanced problem-solving techniques, and building new projects to strengthen my development skills.</p>
+---
 
-###
+## 🛠️ Skills
 
-<p align="left">💬 About Me<br>C++ & Kotlin developer interested in Algorithms, Data Structures, and Competitive Programming. I enjoy solving challenging problems and building efficient solutions.</p>
+### Languages
+- Java
+- SQL
+- HTML
+- CSS
 
-###
+### Tools & Technologies
+- JavaFX
+- MySQL
+- Git & GitHub
+- NetBeans
+- Scene Builder
 
-<p align="left">📄 Know about my experiences<br>Focused on improving my problem-solving and software development skills by building projects, practicing algorithms, and learning modern programming technologies.</p>
+---
 
-###
+## 📌 Featured Project
 
-<p align="left">⚡ Fun fact<br>I enjoy solving challenging algorithmic problems and exploring new technologies to continuously improve my programming skills.</p>
-<div align="center">
-  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRiNzE3cWJobjl5OWxtYjkzM2JzcHpqc2pkZnR6amx3M2RqdGtrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
-</div>
+### 🎓 Student Management System
+A desktop-based Student Management System built using JavaFX.
 
-###
-###
-<p align="left">☕ Connect with me!</p>
+#### Features:
+- Add Students
+- Update Student Information
+- Delete Students
+- Search Students
+- User-Friendly Dashboard
+- File & Database Handling
 
-###
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-</div>
+---
 
-###
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/YOUR_LINK
+- GitHub: https://github.com/YOUR_USERNAME
+
+---
+
+## ✨ Motto
+
+> "Keep Learning, Keep Building."
 
 
 
